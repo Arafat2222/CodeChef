@@ -10,3 +10,5 @@
 [Remove Bad elements](https://www.codechef.com/problems/REMOVEBAD?tab=statement)
 
 [Playing with Strings](https://www.codechef.com/problems/PLAYSTR?tab=statement)
+
+[Sort the String](https://www.codechef.com/problems/SRTARR?tab=statement)
