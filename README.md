@@ -6,3 +6,5 @@
 [Playing with Matches](https://www.codechef.com/problems/MATCHES?tab=statement)
 
 [Alternating String](https://www.codechef.com/problems/ALTSTR?tab=statement)
+
+[Remove Bad elements](https://www.codechef.com/problems/REMOVEBAD?tab=statement)
