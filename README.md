@@ -12,3 +12,5 @@
 [Playing with Strings](https://www.codechef.com/problems/PLAYSTR?tab=statement)
 
 [Sort the String](https://www.codechef.com/problems/SRTARR?tab=statement)
+
+[Binary String Cost](https://www.codechef.com/problems/BSCOST)
