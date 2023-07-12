@@ -14,3 +14,7 @@
 [Sort the String](https://www.codechef.com/problems/SRTARR?tab=statement)
 
 [Binary String Cost](https://www.codechef.com/problems/BSCOST)
+
+[FIND A and B](https://www.codechef.com/START98C/problems/FINDK3)
+
+[Airport Management](https://www.codechef.com/START98C/problems/AIRM)
